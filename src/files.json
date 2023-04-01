@@ -1,0 +1,81 @@
+[
+  {
+    "id":"1",
+    "path": "space_data/time/20220201/000000.csv",
+    "url": "https://example.com/00000.csv",
+    "size": "200MB"
+  },
+  {
+    "id":"2",
+    "path": "space_data/time/20220202/000001.csv",
+    "url": "https://example.com/000001.csv",
+    "size": "300MB"
+  },
+  {
+    "id":"3",
+    "path": "space_data/time/20220202/000002.csv",
+    "url": "https://example.com/00002.csv",
+    "size": "200MB"
+  },
+  {
+    "id":"4",
+    "path": "space_data/time/20220202/00003.csv",
+    "url": "https://example.com/000003.csv",
+    "size": "300MB"
+  },
+  {
+    "id":"5",
+    "path": "space_data/time/20220202/000004.csv",
+    "url": "https://example.com/00004.csv",
+    "size": "200MB"
+  },
+  {
+    "id":"6",
+    "path": "space_data/time/20220202/000005.csv",
+    "url": "https://example.com/000005.csv",
+    "size": "300MB"
+  },
+  {
+    "id":"7",
+    "path": "space_data/time/20220203/000000.csv",
+    "url": "https://example.com/00000.csv",
+    "size": "200MB"
+  },
+  {
+    "id":"9",
+    "path": "space_data/time/20220203/000001.csv",
+    "url": "https://example.com/000001.csv",
+    "size": "300MB"
+  },
+  {
+    "id":"10",
+    "path": "space_data/time/20220203/000002.csv",
+    "url": "https://example.com/00002.csv",
+    "size": "200MB"
+  },
+  {
+    "id":"11",
+    "path": "space_data/time/20220203/00003.csv",
+    "url": "https://example.com/000003.csv",
+    "size": "300MB"
+  },
+  {
+    "id":"12",
+    "path": "space_data/time/20220203/000004.csv",
+    "url": "https://example.com/00004.csv",
+    "size": "200MB"
+  },
+  {
+    "id":"13",
+    "path": "space_data/time/20220203/000005.csv",
+    "url": "https://example.com/000005.csv",
+    "size": "300MB"
+  },
+  {
+    "id":"13",
+    "path": "space_data/data/20220201/000000.csv",
+    "url": "https://example.com/000000.csv",
+    "size": "100MB"
+  }
+  
+]
